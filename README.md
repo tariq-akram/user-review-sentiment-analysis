@@ -24,3 +24,10 @@ This project aims to analyze the sentiment of user reviews from a CSV or Excel f
    ```sh
    git clone https://github.com/yourusername/sentiment-analysis.git
    cd sentiment-analysis
+
+## Usage
+1. Place your CSV or Excel file in the project directory.
+2. Update the `file_path` variable in the script with the path to your file.
+3. Run the script:
+   ```sh
+   python sentiment_analysis.py
